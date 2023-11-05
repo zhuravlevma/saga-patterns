@@ -2,7 +2,7 @@ import { OfferEntity } from '../../entities/offer.entity';
 
 export interface UpdateOfferCommand {
   offerId: string;
-  deliverymanId: string;
+  deliverymanId: string | null;
 }
 
 export abstract class UpdateOfferInPort {

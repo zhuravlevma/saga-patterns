@@ -1,7 +1,7 @@
 import { Body, Controller, Param, Patch } from '@nestjs/common';
-import { WarehouseClient } from './warehouse.client';
+import { WarehouseClient } from './clients/warehouse.client';
 import { ChangeOrderStatusToValidDto } from './dto/change-order-status-to-valid.dto';
-import { AccountingClient } from './accounting.client';
+import { AccountingClient } from './clients/accounting.client';
 
 @Controller('warehouse')
 export class WarehouseController {

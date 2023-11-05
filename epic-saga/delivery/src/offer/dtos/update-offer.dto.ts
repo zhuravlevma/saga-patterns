@@ -1,3 +1,3 @@
 export class UpdateOfferDto {
-  deliverymanId: string;
+  deliverymanId: string | null;
 }
