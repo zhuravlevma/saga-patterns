@@ -10,6 +10,10 @@ export class WarehouseController {
   async changeOrderStatusToValid(
     @Body() changeOrderStatusToValidDto: ChangeOrderStatusToValidDto,
   ) {
+    /// call service#1
+    /// call service#2
+    /// call service#3
+    /// don't intercept errors
     return this.accountingClient.createEmptyReport(
       changeOrderStatusToValidDto.orderId,
     );
