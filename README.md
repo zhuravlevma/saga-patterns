@@ -1,7 +1,7 @@
 # 8 types of sagas
 
 - [x] Epic Saga
-- [ ] Fairy Tale Saga
+- [x] Fairy Tale Saga
 - [ ] Parallel Saga
 - [ ] Anthology saga
 - [ ] Horror saga
