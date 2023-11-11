@@ -6,5 +6,5 @@
 - [ ] Anthology saga
 - [ ] Horror saga
 - [ ] Fantasy fiction saga
-- [ ] Time travel saga
+- [x] Time travel saga
 - [ ] Phone tag saga
