@@ -9,13 +9,6 @@ export class DeliveryClient {
     });
   }
 
-  updateOffer(offerId: string, orderId: string, deliverymanId: string | null) {
-    return axios.patch(`localhost:3002/delivery/offers/${offerId}`, {
-      orderId,
-      deliverymanId,
-    });
-  }
-
   addOrderToDeliveryman(deliverymanId: string, orderId: string) {
     return axios.patch(
       `localhost:3002/delivery/deliverymans/${deliverymanId}/orders`,

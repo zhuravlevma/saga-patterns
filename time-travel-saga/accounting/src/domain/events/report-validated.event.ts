@@ -14,6 +14,6 @@ export class ReportValidatedEvent
     this.type = 'report-validated';
     this.reason = attributes.reason;
     this.payload = attributes.payload;
-    this.url = 'localhost:3000/report';
+    this.url = 'localhost:3002/delivery/offers';
   }
 }
