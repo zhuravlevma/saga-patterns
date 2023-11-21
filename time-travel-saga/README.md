@@ -1,4 +1,4 @@
-# Fairy tale saga
+# Time travel saga
 
-![image](https://github.com/zhuravlevma/saga-patterns/assets/44276887/54a65bef-6b41-4618-90fe-05a5eec9bc30)
+![image](https://github.com/zhuravlevma/saga-patterns/assets/44276887/70a911c7-ff83-416f-99ea-c869402c0cf7)
 
