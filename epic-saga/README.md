@@ -12,12 +12,3 @@ O-->|wait http call|D1["domain service #1"]
 O-->|wait http call|D2["domain service #2"]
 O-->|wait http call|D3["domain service #3"]
 ```
-
-```mermaid
-flowchart LR
-
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
-```
