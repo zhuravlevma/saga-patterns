@@ -1,5 +1,9 @@
 # 8 types of sagas
 
+## Basic Event Storming Schema
+
+![image](https://github.com/zhuravlevma/saga-patterns/assets/44276887/1296a04e-ab2a-4915-acb5-4ad441962289)
+
 - [x] Epic Saga
 - [x] Fairy Tale Saga
 - [ ] Parallel Saga
